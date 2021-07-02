@@ -9,13 +9,3 @@ ReactDOM.render(
   </BrowserRouter>,
   document.getElementById("root")
 );
-// function Index() {
-//   return (
-//     <>
-//       <Header />
-
-//     </>
-//   );
-// }
-
-// export default Index;
